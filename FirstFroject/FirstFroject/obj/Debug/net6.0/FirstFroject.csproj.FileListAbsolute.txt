@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\bin\Debug\net6.0\FirstFroject.exe
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\bin\Debug\net6.0\FirstFroject.deps.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\bin\Debug\net6.0\FirstFroject.runtimeconfig.json
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\bin\Debug\net6.0\FirstFroject.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\bin\Debug\net6.0\ref\FirstFroject.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\bin\Debug\net6.0\FirstFroject.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\obj\Debug\net6.0\FirstFroject.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\obj\Debug\net6.0\FirstFroject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\obj\Debug\net6.0\FirstFroject.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\obj\Debug\net6.0\FirstFroject.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\obj\Debug\net6.0\FirstFroject.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\obj\Debug\net6.0\FirstFroject.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\obj\Debug\net6.0\ref\FirstFroject.dll
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\obj\Debug\net6.0\FirstFroject.pdb
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\FirstFroject\obj\Debug\net6.0\FirstFroject.genruntimeconfig.cache
