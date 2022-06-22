@@ -12,3 +12,4 @@ C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Ope
 C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Operater\obj\Debug\net6.0\ref\Operators.dll
 C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Operater\obj\Debug\net6.0\Operators.pdb
 C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Operater\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Operater\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
