@@ -12,3 +12,4 @@ C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Sta
 C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Statement_Loops\obj\Debug\net6.0\ref\Statement_Loops.dll
 C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Statement_Loops\obj\Debug\net6.0\Statement_Loops.pdb
 C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Statement_Loops\obj\Debug\net6.0\Statement_Loops.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Statement_Loops\obj\Debug\net6.0\Statement_Loops.csproj.AssemblyReference.cache

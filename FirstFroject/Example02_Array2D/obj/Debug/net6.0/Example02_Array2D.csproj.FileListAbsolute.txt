@@ -1,0 +1,5 @@
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Example02_Array2D\obj\Debug\net6.0\Example02_Array2D.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Example02_Array2D\obj\Debug\net6.0\Example02_Array2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Example02_Array2D\obj\Debug\net6.0\Example02_Array2D.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Example02_Array2D\obj\Debug\net6.0\Example02_Array2D.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\UnityEngineBasic_Nowon_2000_2200\FirstFroject\Example02_Array2D\obj\Debug\net6.0\Example02_Array2D.csproj.CoreCompileInputs.cache
